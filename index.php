@@ -8,4 +8,5 @@ echo ' Connected successfully';
 mysql_close($link);
 echo 'SUHAIMI';
 echo 'HE HE';
+echo 'HE HE';
 ?>
